@@ -24,6 +24,10 @@ I'm currently focused on building my skills in:
 
 - **API Automation:** Develop a structured approach to designing, executing, and managing API tests. Explore popular API automation tools like Postman, RestAssured, and more, and learn to work with them effectively.
 
+- **Web Automation:** Learning how to automate web testing processes, including interaction with web elements, executing test cases, generating reports, and integrating automation into the software development lifecycle, to ensure the reliability and quality of web applications. 
+
+- **Mobile Automation:** Learning how to automate mobile applications to efficiently test their functionality, usability, and performance across various mobile devices and platforms.
+
 ### 🚀 What's Next
 
 I'm actively seeking opportunities to gain hands-on experience in QA and contribute to real-world projects. Whether it's finding and reporting bugs, improving testing processes, or collaborating with development teams, I'm ready to make a positive impact.
